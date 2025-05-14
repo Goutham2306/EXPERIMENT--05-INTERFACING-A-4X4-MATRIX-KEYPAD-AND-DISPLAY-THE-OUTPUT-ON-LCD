@@ -181,7 +181,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include "lcd.h"
 #include <stdbool.h>
@@ -445,8 +445,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif 
 ```
+
 ## Output screen shots of proteus  :
-   ![image](https://github.com/user-attachments/assets/a9f65451-e055-4066-97e6-9e17c012ce5e)
+ ![image](https://github.com/user-attachments/assets/a9f65451-e055-4066-97e6-9e17c012ce5e)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 ![image](https://github.com/user-attachments/assets/f76889ea-c15f-4f4a-9dfb-2d5977b2fe2f)
